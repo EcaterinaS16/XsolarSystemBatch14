@@ -8,6 +8,6 @@ XX.Planet=2;
         FeatureSUN Xeron = new FeatureSUN();
         Xeron.Heat="12324234";
         Xeron.size=1221334234;
-        Xeron.Temperature="3434"; //there  is mistake,we oont know how to fix- we should sent it  now
+        Xeron.Temperature=700; // ="3434" there  is mistake,we dont know how to fix- we should sent it now  to  new branch
     }
 }
